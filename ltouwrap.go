@@ -1,8 +1,7 @@
 /*
  * @Author: FunctionSir
- * @License: AGPLv3
  * @Date: 2025-08-22 11:11:36
- * @LastEditTime: 2025-08-23 20:21:03
+ * @LastEditTime: 2025-08-24 13:57:33
  * @LastEditors: FunctionSir
  * @Description: -
  * @FilePath: /ltouwrap/ltouwrap.go
